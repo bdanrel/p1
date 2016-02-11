@@ -15,8 +15,8 @@ This project is a single PHP page that will contain links to all the projects I 
 
 ----
 ## Demo
-TBD
+<http://www.screencast.com/t/V3C9ldHTMgd>
 
 ----
 ## Outside Code
-None.
+<https://css-tricks.com/complete-guide-table-element/> was used for help with CSS for the table.
