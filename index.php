@@ -7,37 +7,38 @@
 </head>
 
 <body>
-
-	<h1>Barbara Danrel</h1>
-	<img src='images/photo.jpg' alt='Barbara Danrel'>
-	
-	<h2>Project List for CSCI E-15 with URLs</h2>
-	<table>
-		<thead>
-			<tr>
-				<th>Project Name</th>
-				<th>Link to Project Site</th>
-				<th>Link to Github</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Project 2</td>
-				<td>TBD</td>
-				<td>TBD</td>
-			</tr>
-			<tr>
-				<td>Project 3</td>
-				<td>TBD</td>
-				<td>TBD</td>
-			</tr>
-			<tr>
-				<td>Project 4</td>
-				<td>TBD</td>
-				<td>TBD</td>
-			</tr>
-		</tbody>
-	</table>
+	<div class="container">
+		<h1>Barbara Danrel: CSCI E-15 Project P1</h1>
+		<img src='images/photo.jpg' alt='Barbara Danrel'>
+		
+		<h3>Course Project URLs</h3>
+		<table>
+			<thead>
+				<tr>
+					<th>Project Name</th>
+					<th>Link to Project Site</th>
+					<th>Link to GitHub</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Project 2</td>
+					<td>TBD</td>
+					<td>TBD</td>
+				</tr>
+				<tr>
+					<td>Project 3</td>
+					<td>TBD</td>
+					<td>TBD</td>
+				</tr>
+				<tr>
+					<td>Project 4</td>
+					<td>TBD</td>
+					<td>TBD</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 </body>
 </html>
 		

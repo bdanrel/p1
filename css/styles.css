@@ -1,20 +1,37 @@
-h1,h2 {
-	text-align: center;
+body {
+	font-size: small;
+	font-family: Verdana, Geneva, Aria, sans-serif;
+	background: #CCCCFF;
+	margin: auto;
+	width: 90%;
 }
+
 table, th, td{
 	border: 1px solid black;
 	border-collapse: collapse;
+	border-color: gray;
 }
 table{
 	width: 80%;
-	margin: auto;
 }
 th, td {
 	padding: 15px;
 }
-caption{
-	color: blue;
-}
 tbody tr:hover{
-	background: yellow;
+	background: #B4B4CD;
+}
+h1 {
+
+	border-width: thin;
+	border-style: solid;
+	border-color: black;
+	padding: 10px;
+	background: #B4B4CD;
+
+}
+img { 
+	border-width: thin;
+	border-style: double;
+	border-color: black;
+
 }
