@@ -9,7 +9,7 @@
 <body>
 	<div class="container">
 		<h1>Barbara Danrel: CSCI E-15 Project P1</h1>
-		<img src='images/photo.jpg' alt='Barbara Danrel'>
+		<img src='images/photo.JPG' alt='Barbara Danrel'>
 
 		<h3>Course Project URLs</h3>
 		<table>
